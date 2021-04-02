@@ -24,7 +24,7 @@ SECRET_KEY = 'c@plhb*tx=*ga(l+-5vzbm#5_(-6qye9l8^^(&%=w1r#2b)1-g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["10.0.2.2:8000", "10.0.2.2", "127.0.0.1", "0.0.0.0", "fypaudit.azurewebsites.net"]
+ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
